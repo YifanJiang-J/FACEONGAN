@@ -116,4 +116,5 @@ year = {2020}
 ```
 
 ## Acknowledgments
-We thank Wamiq Reyaz Para for helpful comments. This code borrows heavily from SPADE. We thank Taesung Park for sharing his codes. This work was supported by the KAUST Office of Sponsored Research (OSR) under AwardNo. OSR-CRG2018-3730.
+A face generation, which can change the appearance of an existing person through face generation. It can be used for plastic surgery, and some appearance analysis is mainly used for criminals, and infers the suspect of fugitive by recognizing his son’s face. people. It can also be used for abducting and trafficking children in the early years. Through the appearance of the parents of the child, the app can be used to infer the current appearance of the child and be identified from big data.
+Code borrows heavily from SEAN [ZPdesu](https://zpdesu.github.io/SEAN/)
